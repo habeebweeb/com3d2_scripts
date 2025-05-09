@@ -4,7 +4,7 @@ A collection of ScriptLoader scripts for Custom Order Maid 3D 2
 
 ## Installation
 
-**A forked version of [ScriptLoader](https://github.com/krypto5863/BepInEx.ScriptLoader) is required.** Follow the instructions there to install ScriptLoader.
+**[ScriptLoader 2.0+](https://github.com/BepInEx/BepInEx.ScriptLoader) is required.** Follow the instructions there to install ScriptLoader.
 
 Download the scripts you want in the [`src/scripts`](src/scripts) folder and place them in your game's `<COM3D2 Root Folder>/scripts/` folder.
 
